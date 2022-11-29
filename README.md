@@ -3,7 +3,7 @@ Aqui estão alguns exercícios da faculdade em linguagem c.
 
 O enunciado dos exercícios são:
 
-*clientes.c* - Em algumas situações, para a implementação de um sistema computacional, não se conhece, previamente, qual o tamanho da massa de dados que será efetivamente manipulada. Em tais casos, pode ser usado o recurso de alocação dinâmica de memória. Com tal recurso, uma região de memória poderá ser alocada, sob demanda de modo a tornar o programa mais flexível em relação à quantidade de itens a serem manipulados. Essa flexibilidade torna o programa escalável.
+**clientes.c** - Em algumas situações, para a implementação de um sistema computacional, não se conhece, previamente, qual o tamanho da massa de dados que será efetivamente manipulada. Em tais casos, pode ser usado o recurso de alocação dinâmica de memória. Com tal recurso, uma região de memória poderá ser alocada, sob demanda de modo a tornar o programa mais flexível em relação à quantidade de itens a serem manipulados. Essa flexibilidade torna o programa escalável.
 
 O objetivo desta questão é exercitar a manipulação de ponteiros em um cenário onde se exige a alocação dinâmica de memória através da implementação de um programa computacional.
 
@@ -45,7 +45,7 @@ Referência DEITEL, P. J.; DEITEL, H. C: Como Programar. 6. Ed. São Paulo: Pear
 GARCIA, F. D. Ponteiro em C: Alocação Dinâmica de Memória. Publicado em 08/01/2016. Disponível em <https://www.embarcados.com.br/ponteiro-em-c-alocacao-dinamica/>. Acesso em 05/07/2019.
 
 
-*carros.cpp* - Caro estudante,
+**carros.cpp** - Caro estudante,
 
 Em linguagens de programação estruturadas, tal como a linguagem C/C++ temos a possibilidade de organizar as informações a serem manipuladas sob dois aspectos: organização homogênea e organização heterogênea. No viés homogêneo, todas as informações, possuidoras de um único tipo de dados, estão dispostas em uma estrutura denominada vetor. E, por sua vez, no viés heterogêneo, as informações, podendo possuir tipagens distintas, estão armazenadas em estruturas de dados denominadas como “struct”.
 
